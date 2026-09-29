@@ -1,2 +1,0 @@
-# WebARdrone
-AR web test
